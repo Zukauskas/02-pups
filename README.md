@@ -40,7 +40,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Zukauskas/02-ufo.git
+    git clone https://github.com/Zukauskas/02-pups.git
     ```
 2. Install NPM packages
     ```sh
