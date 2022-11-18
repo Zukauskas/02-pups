@@ -65,7 +65,7 @@ Tautvydas: [Github](https://github.com/Zukauskas)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Zukauskas/02-pups/blob/main/LICENSE) for more information.
 
 ## 🔗 Other resources
 
